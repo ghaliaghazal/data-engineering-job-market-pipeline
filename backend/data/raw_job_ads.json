@@ -1,0 +1,1583 @@
+{
+  "total": {
+    "value": 74
+  },
+  "positions": 85,
+  "query_time_in_millis": 2,
+  "result_time_in_millis": 19,
+  "stats": [],
+  "freetext_concepts": {
+    "skill": [],
+    "occupation": [
+      "data engineer"
+    ],
+    "trait": [],
+    "location": [],
+    "skill_must": [],
+    "occupation_must": [],
+    "trait_must": [],
+    "location_must": [],
+    "skill_must_not": [],
+    "occupation_must_not": [],
+    "trait_must_not": [],
+    "location_must_not": []
+  },
+  "hits": [
+    {
+      "relevance": 1.0,
+      "id": "31546919",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31546919",
+      "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5569456659/logotyper/logo.png",
+      "headline": "Data Engineer",
+      "application_deadline": "2026-10-07T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Vi söker en erfaren Data Engineer till en större organisation med en omfattande och datadriven verksamhet, där stora datamängder används som grund för analys, rapportering och verksamhetskritiska beslut. Rollen passar dig som vill arbeta tekniskt nära både data och verksamhet och samtidigt bidra till utvecklingen av moderna och hållbara datalösningar.\nDetta är ett konsultuppdrag på 100 % med placering i Solna, med start 12 oktober 2026 och planerat slutdatum 5 mars 2027, med möjlighet till förlängning.\nOm rollen\nSom Data Engineer kommer du att utveckla och vidareutveckla dataflöden och pipelines för insamling, bearbetning och analys av stora datamängder. Du arbetar med bland annat datamodellering, transformation, datakvalitet och optimering för att säkerställa att data är tillgänglig, tillförlitlig och användbar för verksamheten.\nRollen innebär ett nära samarbete med verksamheten, utvecklingsteam, källsystemägare samt data- och informationsarkitekter. Du förväntas även ta en aktiv roll i att etablera och driva best practices inom kod, datamodellering och dokumentation.\nDu kommer bland annat att:\nBygga och underhålla dataflöden för insamling, lagring och bearbetning av stora datamängder.\nArbeta med avancerad datamodellering och transformation för analys och rapportering.\nUtveckla och optimera pipelines med fokus på effektivitet, stabilitet och tillgänglighet.\nArbeta med datakvalitet och datasäkerhet samt säkerställa att data är användbar för analytiker och beslutsfattare.\nDriva best practices inom kodstruktur, datamodellering och dokumentation.\nHa en nära dialog med verksamheten och samarbeta med andra utvecklingsavdelningar, källsystemägare samt data- och informationsarkitekter.\n\nVi söker dig som\nHar minst 6 års erfarenhet av:\nAtt bygga och underhålla dataflöden för insamling, lagring och bearbetning av stora datamängder.\nAvancerad datamodellering och transformation för analys och rapportering.\nUtveckling och optimering av pipelines med fokus på effektivitet och tillgänglighet.\nDatakvalitet och datasäkerhet samt att tillgängliggöra data för analytiker och beslutsfattare.\nAtt etablera och driva best practices inom kodstruktur, datamodellering och dokumentation.\nNära samarbete med verksamhet, utvecklingsavdelningar, källsystemägare samt data- och informationsarkitekter.\n\nDu behöver även ha flytande svenska i tal och skrift.\nTeknisk kompetens\nVi söker dig som har aktuell och nyligen använd erfarenhet av samtliga följande tekniker och områden:\nJinja SQL / DBT\nGCP, framför allt BigQuery (BQ) och Cloud Functions\nPython\nKimball-modellering\nGitHub CI/CD\n\nDet är meriterande med erfarenhet av agentisk kodning.\nDin ansökan\nLåter rollen intressant och passande? Ansök i så fall omgående för vi intervjuar löpande och rollen kan tillsättas innan sista ansökningsdatum. Vi kan enbart ta emot och bearbeta din ansökan genom att du registrerar ditt CV i vår portal. Med avseende på GDPR kan vi ej ta emot ansökningar via e-post. Varmt välkommen med din ansökan! Uppdraget är en del av Quest Consulting personaluthyrning.\nOm oss\nQuest Consulting är ett auktoriserat konsultbolag med kollektivavtal, försäkringar, friskvård och tjänstepension. Vi är specialiserade inom IT, Teknik, HR, Administration och Ekonomi. Vår målsättning är att vara din personliga samarbetspartner och just därför är det så viktigt för oss att arbeta efter våra kärnvärden där våra ledord är att vara Personliga, Nyskapande och Professionella.",
+        "text_formatted": "<p>Vi söker en erfaren Data Engineer till en större organisation med en omfattande och datadriven verksamhet, där stora datamängder används som grund för analys, rapportering och verksamhetskritiska beslut. Rollen passar dig som vill arbeta tekniskt nära både data och verksamhet och samtidigt bidra till utvecklingen av moderna och hållbara datalösningar.</p><p>Detta är ett konsultuppdrag på 100 % med placering i Solna, med start 12 oktober 2026 och planerat slutdatum 5 mars 2027, med möjlighet till förlängning.</p><p><strong>Om rollen</strong></p><p>Som Data Engineer kommer du att utveckla och vidareutveckla dataflöden och pipelines för insamling, bearbetning och analys av stora datamängder. Du arbetar med bland annat datamodellering, transformation, datakvalitet och optimering för att säkerställa att data är tillgänglig, tillförlitlig och användbar för verksamheten.</p><p>Rollen innebär ett nära samarbete med verksamheten, utvecklingsteam, källsystemägare samt data- och informationsarkitekter. Du förväntas även ta en aktiv roll i att etablera och driva best practices inom kod, datamodellering och dokumentation.</p><p>Du kommer bland annat att:</p><ul><li>Bygga och underhålla dataflöden för insamling, lagring och bearbetning av stora datamängder.</li><li>Arbeta med avancerad datamodellering och transformation för analys och rapportering.</li><li>Utveckla och optimera pipelines med fokus på effektivitet, stabilitet och tillgänglighet.</li><li>Arbeta med datakvalitet och datasäkerhet samt säkerställa att data är användbar för analytiker och beslutsfattare.</li><li>Driva best practices inom kodstruktur, datamodellering och dokumentation.</li><li>Ha en nära dialog med verksamheten och samarbeta med andra utvecklingsavdelningar, källsystemägare samt data- och informationsarkitekter.</li></ul><p><strong>Vi söker dig som</strong></p><p>Har minst 6 års erfarenhet av:</p><ul><li>Att bygga och underhålla dataflöden för insamling, lagring och bearbetning av stora datamängder.</li><li>Avancerad datamodellering och transformation för analys och rapportering.</li><li>Utveckling och optimering av pipelines med fokus på effektivitet och tillgänglighet.</li><li>Datakvalitet och datasäkerhet samt att tillgängliggöra data för analytiker och beslutsfattare.</li><li>Att etablera och driva best practices inom kodstruktur, datamodellering och dokumentation.</li><li>Nära samarbete med verksamhet, utvecklingsavdelningar, källsystemägare samt data- och informationsarkitekter.</li></ul><p>Du behöver även ha flytande svenska i tal och skrift.</p><p><strong>Teknisk kompetens</strong></p><p>Vi söker dig som har aktuell och nyligen använd erfarenhet av samtliga följande tekniker och områden:</p><ul><li>Jinja SQL / DBT</li><li>GCP, framför allt BigQuery (BQ) och Cloud Functions</li><li>Python</li><li>Kimball-modellering</li><li>GitHub CI/CD</li></ul><p>Det är meriterande med erfarenhet av agentisk kodning.</p><p><strong>Din ansökan</strong></p><p>Låter rollen intressant och passande? Ansök i så fall omgående för vi intervjuar löpande och rollen kan tillsättas innan sista ansökningsdatum. Vi kan enbart ta emot och bearbeta din ansökan genom att du registrerar ditt CV i vår portal. Med avseende på GDPR kan vi ej ta emot ansökningar via e-post. Varmt välkommen med din ansökan! Uppdraget är en del av Quest Consulting personaluthyrning.</p><p><strong>Om oss</strong></p><p>Quest Consulting är ett auktoriserat konsultbolag med kollektivavtal, försäkringar, friskvård och tjänstepension. Vi är specialiserade inom IT, Teknik, HR, Administration och Ekonomi. Vår målsättning är att vara din personliga samarbetspartner och just därför är det så viktigt för oss att arbeta efter våra kärnvärden där våra ledord är att vara Personliga, Nyskapande och Professionella.</p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "qQUd_4qe_NDT",
+        "label": "6 månader eller längre",
+        "legacy_ams_taxonomy_id": "2"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": null,
+        "organization_number": "5569456659",
+        "name": "Quest Consulting Sverige AB",
+        "workplace": "Quest Consulting AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": "https://pnty-apply.ponty-system.se/quest?id=8499&pnty_src=platsbanken",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "9U5Y_9Ji_uJq",
+        "label": "Dataingenjör",
+        "legacy_ams_taxonomy_id": "7338"
+      },
+      "occupation_group": {
+        "concept_id": "nDaB_vdy_eAy",
+        "label": "Ingenjörer och tekniker inom elektroteknik",
+        "legacy_ams_taxonomy_id": "3113"
+      },
+      "occupation_field": {
+        "concept_id": "6Hq3_tKo_V57",
+        "label": "Yrken med teknisk inriktning",
+        "legacy_ams_taxonomy_id": "18"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Landsvägen 57",
+        "postcode": "17265",
+        "city": "Stockholm",
+        "coordinates": [
+          17.9661596128818,
+          59.3612728935077
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Stockholm",
+          "municipality_code": "0180",
+          "municipality_concept_id": "AvNB_uwa_6n6",
+          "region": "Stockholms län",
+          "region_code": "01",
+          "region_concept_id": "CifL_Rzy_Mku",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": "Landsvägen 57",
+          "postcode": "17265",
+          "city": "Stockholm",
+          "coordinates": [
+            17.9661596128818,
+            59.3612728935077
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [
+          {
+            "weight": 10,
+            "concept_id": "zSLA_vw2_FXN",
+            "label": "Svenska",
+            "legacy_ams_taxonomy_id": "502"
+          }
+        ],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2026-10-02T12:39:34",
+      "last_publication_date": "2026-10-07T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_JOBPOSTING",
+      "timestamp": 1790937574789
+    },
+    {
+      "relevance": 1.0,
+      "id": "31518118",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31518118",
+      "logo_url": null,
+      "headline": "Data Engineer",
+      "application_deadline": "2026-10-24T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Bygg och förvalta robusta dataprodukter för fordonsdata – från batch- och streamingflöden till datakvalitet, styrning och molnbaserad automation.\nVill du utveckla dataplattformar som gör komplex fordonsdata användbar, tillförlitlig och tillgänglig? I rollen som Data Engineer arbetar du nära produkt-, verksamhets- och plattformsteam för att bygga och drifta moderna dataprodukter.\nOm rollen\nDu blir en del av ett team som utvecklar data- och molnlösningar för fordonsnära tjänster.\nFokus ligger på datapipelines, datalager, datakvalitet och operativ förvaltning.\nDu arbetar med både batch- och streamingbaserade dataflöden.\nRollen omfattar flera molnmiljöer och integrationer mellan system.\n\nDet här kommer du göra\nDesigna, utveckla och förvalta batch- och streamingpipelines för fordonsdata.\nBygga ETL/ELT-flöden för rensning, transformering, validering och berikning av data.\nUtveckla datamodeller samt strukturer för datalager och lakehouse.\nAutomatisera provisionering och konfiguration med Infrastructure as Code.\nÖvervaka datakvalitet, tillgänglighet och pipeline-status samt felsöka produktionsproblem.\n\nVi söker dig som har\n3–5 års erfarenhet av data engineering, datalagerutveckling eller dataförvaltning.\nGoda kunskaper i SQL samt praktisk erfarenhet av Python och/eller PySpark.\nFörståelse för datamodellering, ETL/ELT, datakvalitet och data governance.\nErfarenhet av att utveckla och underhålla datapipelines i produktionsmiljö.\nVana av datamonitorering, felsökning och samarbete med teknik- och verksamhetsteam.\n\nTeknik & Verktyg\nSQL, Python och PySpark.\nDatabricks, gärna i AWS-miljö.\nTerraform och Infrastructure as Code.\nGit, CI/CD och automatiserade tester.\nPower BI samt erfarenhet av IoT-, fordons- eller uppkopplade dataplattformar är meriterande.\n\nPraktisk information\nOrt: Ej angiven.\nArbetssätt: Ej angivet.\nSpråk: Engelska krävs.",
+        "text_formatted": "<p>Bygg och förvalta robusta dataprodukter för fordonsdata – från batch- och streamingflöden till datakvalitet, styrning och molnbaserad automation.</p><p>Vill du utveckla dataplattformar som gör komplex fordonsdata användbar, tillförlitlig och tillgänglig? I rollen som Data Engineer arbetar du nära produkt-, verksamhets- och plattformsteam för att bygga och drifta moderna dataprodukter.</p><p>Om rollen<p><ul><li>Du blir en del av ett team som utvecklar data- och molnlösningar för fordonsnära tjänster.</li><li>Fokus ligger på datapipelines, datalager, datakvalitet och operativ förvaltning.</li><li>Du arbetar med både batch- och streamingbaserade dataflöden.</li><li>Rollen omfattar flera molnmiljöer och integrationer mellan system.</li></ul><p>Det här kommer du göra<p><ul><li>Designa, utveckla och förvalta batch- och streamingpipelines för fordonsdata.</li><li>Bygga ETL/ELT-flöden för rensning, transformering, validering och berikning av data.</li><li>Utveckla datamodeller samt strukturer för datalager och lakehouse.</li><li>Automatisera provisionering och konfiguration med Infrastructure as Code.</li><li>Övervaka datakvalitet, tillgänglighet och pipeline-status samt felsöka produktionsproblem.</li></ul><p>Vi söker dig som har<p><ul><li>3–5 års erfarenhet av data engineering, datalagerutveckling eller dataförvaltning.</li><li>Goda kunskaper i SQL samt praktisk erfarenhet av Python och/eller PySpark.</li><li>Förståelse för datamodellering, ETL/ELT, datakvalitet och data governance.</li><li>Erfarenhet av att utveckla och underhålla datapipelines i produktionsmiljö.</li><li>Vana av datamonitorering, felsökning och samarbete med teknik- och verksamhetsteam.</li></ul><p>Teknik &amp; Verktyg<p><ul><li>SQL, Python och PySpark.</li><li>Databricks, gärna i AWS-miljö.</li><li>Terraform och Infrastructure as Code.</li><li>Git, CI/CD och automatiserade tester.</li><li>Power BI samt erfarenhet av IoT-, fordons- eller uppkopplade dataplattformar är meriterande.</li></ul><p>Praktisk information<p><ul><li><strong>Ort:</strong> Ej angiven.</li><li><strong>Arbetssätt:</strong> Ej angivet.</li><li><strong>Språk:</strong> Engelska krävs.</li></ul>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": null,
+        "organization_number": "5593595258",
+        "name": "Agile Resources AB",
+        "workplace": "Agile Resources AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": "REQ-LFWXXR8G",
+        "email": null,
+        "via_af": false,
+        "url": "https://recruit.agile.nu/apply/jp-7b3500e982653ba8?source=platsbanken",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "rQds_YGd_quU",
+        "label": "Mjukvaruutvecklare",
+        "legacy_ams_taxonomy_id": "80"
+      },
+      "occupation_group": {
+        "concept_id": "DJh5_yyF_hEM",
+        "label": "Mjukvaru- och systemutvecklare m.fl.",
+        "legacy_ams_taxonomy_id": "2512"
+      },
+      "occupation_field": {
+        "concept_id": "apaJ_2ja_LuF",
+        "label": "Data/IT",
+        "legacy_ams_taxonomy_id": "3"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Göteborg",
+        "municipality_code": "1480",
+        "municipality_concept_id": "PVZL_BQT_XtL",
+        "region": "Västra Götalands län",
+        "region_code": "14",
+        "region_concept_id": "zdoY_6u5_Krt",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "41753",
+        "city": "Ej angiven",
+        "coordinates": [
+          11.937006084431701,
+          57.70834641547789
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Göteborg",
+          "municipality_code": "1480",
+          "municipality_concept_id": "PVZL_BQT_XtL",
+          "region": "Västra Götalands län",
+          "region_code": "14",
+          "region_concept_id": "zdoY_6u5_Krt",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": null,
+          "postcode": "41753",
+          "city": "Ej angiven",
+          "coordinates": [
+            11.937006084431701,
+            57.70834641547789
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [
+        {
+          "name": "Neethi Gopinadh",
+          "description": null,
+          "email": "neethi.gopinadh@agile.nu",
+          "telephone": "0760203611",
+          "contact_type": "Rekryterare"
+        }
+      ],
+      "publication_date": "2026-09-24T19:36:27",
+      "last_publication_date": "2026-10-24T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_JOBPOSTING",
+      "timestamp": 1790271387075
+    },
+    {
+      "relevance": 1.0,
+      "id": "31481035",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31481035",
+      "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5565688479/logotyper/logo.png",
+      "headline": "Data Engineer",
+      "application_deadline": "2026-10-19T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Vill du vara med och forma hur data används i Europas största utbildningsföretag?\nVi söker en Data Engineer som vill ta ansvar för både dataflödena och infrastrukturen de körs på. Hos oss får du vidareutveckla en modern dataplattform som används för analys, rapportering och verksamhetsutveckling inom hela AcadeMedia, och äga den automation som håller den i gång.\nDu blir en del av vårt centrala Data & Analytics-team. Vi är ett mindre team med stort ansvar och nära samarbete mellan teknik och verksamhet. Vi arbetar agilt i sprintar med en produktägare som prioriterar inkommande behov, vilket ger utrymme att arbeta fokuserat. Här får du stort utrymme att påverka, fatta beslut och driva arbetet framåt, från idé och arkitektur till implementering, driftsättning och långsiktig förvaltning.\nOm rollen\nDu vidareutvecklar vår lakehouse-plattform genom att ansluta nya källsystem och förvalta och förbättra det som redan finns. Rollen är bred och rör allt från inhämtning och transformation till infrastruktur och deployflöden, där Infrastructure as Code väger tyngre än i en typisk Data Engineer-roll.\nVi arbetar i Databricks och dbt på Azure, med infrastrukturen som kod i OpenTofu och Spacelift och deployflöden i GitHub Actions.\nDina huvudsakliga ansvarsområden\nAnsluta nya källsystem och bygga robusta dataflöden i Databricks och dbt, inklusive transformation, tester och dokumentation.\nBygga och underhålla våra dataleveranser till omgivande system.\nDriva och vidareutveckla våra IaC-lösningar samt automatisera CI/CD-flöden och infrastruktur.\nSäkra datakvalitet, observability, spårbarhet och säkerhet i nära samarbete med teamet.\nBidra i den dimensionella modelleringen.\nSamarbeta med analytiker, produktägare och verksamheten för att reda ut vad som faktiskt beh\növs innan lösningen byggs.\nDelta i tekniska vägval och vara med och forma plattformens utveckling framåt.\n\nVem är du?\nVi söker dig som har några års erfarenhet som Data Engineer, Analytics Engineer, plattformsingenjör eller backendutvecklare med starkt datafokus.\nDu trivs med att arbeta självständigt i ett mindre team och har en stark känsla av ägarskap. Du behöver inte ha alla svar från början, men du är van vid att undersöka alternativ, fatta välgrundade beslut och driva arbetet framåt utan detaljerad styrning.\nDin profil\nGoda kunskaper i SQL och Python, med vana vid moduler, beroendehantering och tester.\nErfarenhet av Databricks eller annan lakehouse-plattform\nErfarenhet av Infrastructure as Code (exempelvis Terraform eller OpenTofu) samt av CI/CD och versionshantering som ordinarie arbetssätt.\nGod blick för datakvalitet, driftsäkerhet och modern observability.\nSvenska och engelska i tal och skrift.\n\nDet är meriterande om du har erfarenhet av\nSpacelift eller annan IaC-orkestrering.\nDeclarative Automation Bundles (tidigare Databricks Asset Bundles).\nDbt eller motsvarande transformationsverktyg\nIntegrationer mot ERP- eller HR-system.\nLakehouse-arkitektur, data governance och Unity Catalog.\nPower BI och semantisk modellering.\n\nVi lägger stor vikt vid din nyfikenhet, din problemlösningsförmåga och din vilja att utvecklas tillsammans med oss.\nOm AcadeMedia\nAcadeMedia är Europas största utbildningsföretag med verksamhet i stora delar av Europa. Genom våra förskolor, grundskolor, gymnasier och vuxenutbildningar bidrar vi varje dag till att utveckla utbildning för barn, unga och vuxna. Data & Analytics-teamet arbetar centralt mot samtliga dessa verksamheter.\nÖvrig information\nTjänstens omfattning och placeringTjänsten är en tillsvidareanställning med 6 månaders provanställning. Kontoret ligger på Adolf Fredriks Kyrkogata i Stockholm. Urval sker löpande och tjänsten kan tillsättas innan sista ansökningsdatum.\nÄr du den vi söker? Välkommen att skicka in din ansökan innehållande CV\nHar du frågor om tjänsten, varmt välkommen att kontakta rekryterande chef, ylva.drugge@academedia.se \nVälkommen med din ansökan!\nVi har gjort vårt medieval för rekrytering och undanber oss därför kontakt med annonssäljare eller säljare av andra rekryteringstjänster.",
+        "text_formatted": "<p><strong>Vill du vara med och forma hur data används i Europas största utbildningsföretag?</strong></p><p>Vi söker en Data Engineer som vill ta ansvar för både dataflödena och infrastrukturen de körs på. Hos oss får du vidareutveckla en modern dataplattform som används för analys, rapportering och verksamhetsutveckling inom hela AcadeMedia, och äga den automation som håller den i gång.</p><p>Du blir en del av vårt centrala Data &amp; Analytics-team. Vi är ett mindre team med stort ansvar och nära samarbete mellan teknik och verksamhet. Vi arbetar agilt i sprintar med en produktägare som prioriterar inkommande behov, vilket ger utrymme att arbeta fokuserat. Här får du stort utrymme att påverka, fatta beslut och driva arbetet framåt, från idé och arkitektur till implementering, driftsättning och långsiktig förvaltning.</p><p><strong>Om rollen</strong></p><p>Du vidareutvecklar vår lakehouse-plattform genom att ansluta nya källsystem och förvalta och förbättra det som redan finns. Rollen är bred och rör allt från inhämtning och transformation till infrastruktur och deployflöden, där Infrastructure as Code väger tyngre än i en typisk Data Engineer-roll.</p><p>Vi arbetar i Databricks och dbt på Azure, med infrastrukturen som kod i OpenTofu och Spacelift och deployflöden i GitHub Actions.</p><p><strong>Dina huvudsakliga ansvarsområden</strong></p><ul><li>Ansluta nya källsystem och bygga robusta dataflöden i Databricks och dbt, inklusive transformation, tester och dokumentation.</li><li>Bygga och underhålla våra dataleveranser till omgivande system.</li><li>Driva och vidareutveckla våra IaC-lösningar samt automatisera CI/CD-flöden och infrastruktur.</li><li>Säkra datakvalitet, observability, spårbarhet och säkerhet i nära samarbete med teamet.</li><li>Bidra i den dimensionella modelleringen.</li><li>Samarbeta med analytiker, produktägare och verksamheten för att reda ut vad som faktiskt beh</li><li>övs innan lösningen byggs.</li><li>Delta i tekniska vägval och vara med och forma plattformens utveckling framåt.</li></ul><p><strong>Vem är du?</strong></p><p>Vi söker dig som har några års erfarenhet som Data Engineer, Analytics Engineer, plattformsingenjör eller backendutvecklare med starkt datafokus.</p><p>Du trivs med att arbeta självständigt i ett mindre team och har en stark känsla av ägarskap. Du behöver inte ha alla svar från början, men du är van vid att undersöka alternativ, fatta välgrundade beslut och driva arbetet framåt utan detaljerad styrning.</p><p><strong>Din profil</strong></p><ul><li>Goda kunskaper i SQL och Python, med vana vid moduler, beroendehantering och tester.</li><li>Erfarenhet av Databricks eller annan lakehouse-plattform</li><li>Erfarenhet av Infrastructure as Code (exempelvis Terraform eller OpenTofu) samt av CI/CD och versionshantering som ordinarie arbetssätt.</li><li>God blick för datakvalitet, driftsäkerhet och modern observability.</li><li>Svenska och engelska i tal och skrift.</li></ul><p><strong>Det är meriterande om du har erfarenhet av</strong></p><ul><li>Spacelift eller annan IaC-orkestrering.</li><li>Declarative Automation Bundles (tidigare Databricks Asset Bundles).</li><li>Dbt eller motsvarande transformationsverktyg</li><li>Integrationer mot ERP- eller HR-system.</li><li>Lakehouse-arkitektur, data governance och Unity Catalog.</li><li>Power BI och semantisk modellering.</li></ul><p>Vi lägger stor vikt vid din nyfikenhet, din problemlösningsförmåga och din vilja att utvecklas tillsammans med oss.</p><p><strong>Om AcadeMedia</strong></p><p>AcadeMedia är Europas största utbildningsföretag med verksamhet i stora delar av Europa. Genom våra förskolor, grundskolor, gymnasier och vuxenutbildningar bidrar vi varje dag till att utveckla utbildning för barn, unga och vuxna. Data &amp; Analytics-teamet arbetar centralt mot samtliga dessa verksamheter.</p><p><strong>Övrig information</strong></p><p><strong>Tjänstens omfattning och placering</strong>Tjänsten är en tillsvidareanställning med 6 månaders provanställning. Kontoret ligger på Adolf Fredriks Kyrkogata i Stockholm. Urval sker löpande och tjänsten kan tillsättas innan sista ansökningsdatum.</p><p><strong>Är du den vi söker? </strong>Välkommen att skicka in din ansökan innehållande CV</p><p>Har du frågor om tjänsten, varmt välkommen att kontakta rekryterande chef, ylva.drugge@academedia.se </p><p><strong>Välkommen med din ansökan!</strong></p><p><em>Vi har gjort vårt medieval för rekrytering och undanber oss därför kontakt med annonssäljare eller säljare av andra rekryteringstjänster.</em></p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": null,
+        "organization_number": "5565688479",
+        "name": "AcadeMedia Support AB",
+        "workplace": "AcadeMedia Support"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": null,
+        "via_af": false,
+        "url": "https://academedia.se/om-oss/jobba-hos-oss/lediga-jobb/?jobid=318459&ref=platsbankenv2",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "9U5Y_9Ji_uJq",
+        "label": "Dataingenjör",
+        "legacy_ams_taxonomy_id": "7338"
+      },
+      "occupation_group": {
+        "concept_id": "nDaB_vdy_eAy",
+        "label": "Ingenjörer och tekniker inom elektroteknik",
+        "legacy_ams_taxonomy_id": "3113"
+      },
+      "occupation_field": {
+        "concept_id": "6Hq3_tKo_V57",
+        "label": "Yrken med teknisk inriktning",
+        "legacy_ams_taxonomy_id": "18"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "11137",
+        "city": "Stockholm",
+        "coordinates": [
+          18.06149880255592,
+          59.33670594541106
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Stockholm",
+          "municipality_code": "0180",
+          "municipality_concept_id": "AvNB_uwa_6n6",
+          "region": "Stockholms län",
+          "region_code": "01",
+          "region_concept_id": "CifL_Rzy_Mku",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": null,
+          "postcode": "11137",
+          "city": "Stockholm",
+          "coordinates": [
+            18.06149880255592,
+            59.33670594541106
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [
+          {
+            "weight": 5,
+            "concept_id": "zSLA_vw2_FXN",
+            "label": "Svenska",
+            "legacy_ams_taxonomy_id": "502"
+          },
+          {
+            "weight": 5,
+            "concept_id": "NVxJ_hLg_TYS",
+            "label": "Engelska",
+            "legacy_ams_taxonomy_id": "283"
+          }
+        ],
+        "work_experiences": [
+          {
+            "weight": 5,
+            "concept_id": "9U5Y_9Ji_uJq",
+            "label": "Dataingenjör",
+            "legacy_ams_taxonomy_id": "7338"
+          }
+        ],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2026-09-15T16:31:31",
+      "last_publication_date": "2026-10-19T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_JOBPOSTING",
+      "timestamp": 1789482691256
+    },
+    {
+      "relevance": 1.0,
+      "id": "30979729",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/30979729",
+      "logo_url": null,
+      "headline": "Data Engineer",
+      "application_deadline": "2026-10-27T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Om oss På Techrytera AB börjar rekryteringen med dig. Vi är ett bemannings- och rekryteringsföretag med spetskompetens och ett tydligt fokus inom IT och Engineering. Med vår branschkunskap och nära dialog med både kandidater och kunder skapar vi träffsäkra matchningar där rätt kompetens möter rätt behov.\nVi tror att en riktigt bra matchning inte bara handlar om en rollbeskrivning – utan om dina erfarenheter, din potential och vad du faktiskt vill utvecklas inom. Därför utgår vi alltid från individen. Genom att förstå din bakgrund, dina drivkrafter och dina ambitioner kan vi koppla ihop dig med uppdrag och roller hos våra kunder där du får rätt förutsättningar att utvecklas och göra skillnad.\nVårt mål är att bygga långsiktiga och meningsfulla samarbeten – både för dig som kandidat och för våra kunder.\nArbetsbeskrivning Vi söker en erfaren och analytisk Data Engineer som vill arbeta med att förstå och optimera vår kunds datatransaktioner.\n\nSom Data Engineer blir du en nyckelperson i vår kunds team och ansvarar för att analysera, strukturera och förbättra deras interna dataprocesser och kopplingar mellan system. Du kommer att arbeta med stora datamängder, bygga effektiva pipelines och säkerställa datakvalitet för att stödja verksamhetens behov.\n\nVår kunds vision är att ta en ledande position på elmarknaden och bygga stabila, datadrivna lösningar som bidrar till ett hållbart energisystem. Nu behöver de din hjälp för att komma dit.\n\nDina ansvarsområden\n\nAnalysera och förstå datatransaktioner mellan våra system.\n\n\nUtveckla och optimera datamodeller, pipelines och integrationer.\n\n\nArbeta med databaser som MSSQL, Oracle, Snowflake och verktyg som DBT.\n\n\nSäkerställa datakvalitet, prestanda och tillgänglighet.\n\n\nSamarbeta med utvecklare, analytiker och verksamheten för att skapa effektiva datalösningar.\n\n\n\n\n\nNödvändiga färdigheter\n\nDokumenterad erfarenhet av SQL och arbete med relationsdatabaser.\n\n\nErfarenhet av databaser som MSSQL, Oracle, Snowflake.\n\n\nKunskap om ETL-processer och dataintegration.\n\n\nFörståelse för datamodellering och optimering av databaser.\n\n\nErfarenhet av att arbeta med DBT eller liknande verktyg för data transformation.\n\n\nGrundläggande förståelse för dataskydd och säkerhet.\n\n\n\nMeriterande färdigheter\n\nErfarenhet av Python eller andra språk för datahantering.\n\n\nKunskap om molnplattformar (Azure, AWS eller GCP).\n\n\nErfarenhet av dataanalys och visualisering.\n\n\nArbetat med IoT, MQTT och realtidsdata samt förstå konsekvenserna av bearbetning av realtidsdata för analys\n\n\nVana att arbeta i agila team och med DevOps-principer.\n\n\n\nAnsökan När du söker via Techrytera AB söker du inte bara ett jobb – du påbörjar en dialog om din fortsatta karriär. Vi vill lära känna dig, din erfarenhet och dina ambitioner för att kunna matcha dig med rätt möjligheter hos våra kunder.\nLåter det intressant? Skicka in din ansökan eller hör av dig till oss så berättar vi mer. Vi ser fram emot att hitta nästa steg i din karriär tillsammans med dig.",
+        "text_formatted": "<p><strong>Om oss</strong> På Techrytera AB börjar rekryteringen med dig. Vi är ett bemannings- och rekryteringsföretag med spetskompetens och ett tydligt fokus inom IT och Engineering. Med vår branschkunskap och nära dialog med både kandidater och kunder skapar vi träffsäkra matchningar där rätt kompetens möter rätt behov.</p><p>Vi tror att en riktigt bra matchning inte bara handlar om en rollbeskrivning – utan om dina erfarenheter, din potential och vad du faktiskt vill utvecklas inom. Därför utgår vi alltid från individen. Genom att förstå din bakgrund, dina drivkrafter och dina ambitioner kan vi koppla ihop dig med uppdrag och roller hos våra kunder där du får rätt förutsättningar att utvecklas och göra skillnad.</p><p>Vårt mål är att bygga långsiktiga och meningsfulla samarbeten – både för dig som kandidat och för våra kunder.</p><p><strong>Arbetsbeskrivning</strong> Vi söker en erfaren och analytisk Data Engineer som vill arbeta med att förstå och optimera vår kunds datatransaktioner.</p><p></p><p>Som Data Engineer blir du en nyckelperson i vår kunds team och ansvarar för att analysera, strukturera och förbättra deras interna dataprocesser och kopplingar mellan system. Du kommer att arbeta med stora datamängder, bygga effektiva pipelines och säkerställa datakvalitet för att stödja verksamhetens behov.</p><p></p><p>Vår kunds vision är att ta en ledande position på elmarknaden och bygga stabila, datadrivna lösningar som bidrar till ett hållbart energisystem. Nu behöver de din hjälp för att komma dit.</p><p></p><p><strong>Dina ansvarsområden</strong></p><ul><li><p>Analysera och förstå datatransaktioner mellan våra system.</p></li><li><p>Utveckla och optimera datamodeller, pipelines och integrationer.</p></li><li><p>Arbeta med databaser som MSSQL, Oracle, Snowflake och verktyg som DBT.</p></li><li><p>Säkerställa datakvalitet, prestanda och tillgänglighet.</p></li><li><p>Samarbeta med utvecklare, analytiker och verksamheten för att skapa effektiva datalösningar.</p></li><li><p></p></li></ul><p><strong>Nödvändiga färdigheter</strong></p><ul><li><p>Dokumenterad erfarenhet av SQL och arbete med relationsdatabaser.</p></li><li><p>Erfarenhet av databaser som MSSQL, Oracle, Snowflake.</p></li><li><p>Kunskap om ETL-processer och dataintegration.</p></li><li><p>Förståelse för datamodellering och optimering av databaser.</p></li><li><p>Erfarenhet av att arbeta med DBT eller liknande verktyg för data transformation.</p></li><li><p>Grundläggande förståelse för dataskydd och säkerhet.</p></li></ul><p></p><p><strong>Meriterande färdigheter</strong></p><ul><li><p>Erfarenhet av Python eller andra språk för datahantering.</p></li><li><p>Kunskap om molnplattformar (Azure, AWS eller GCP).</p></li><li><p>Erfarenhet av dataanalys och visualisering.</p></li><li><p>Arbetat med IoT, MQTT och realtidsdata samt förstå konsekvenserna av bearbetning av realtidsdata för analys</p></li><li><p>Vana att arbeta i agila team och med DevOps-principer.</p></li></ul><p></p><p><strong>Ansökan </strong>När du söker via Techrytera AB söker du inte bara ett jobb – du påbörjar en dialog om din fortsatta karriär. Vi vill lära känna dig, din erfarenhet och dina ambitioner för att kunna matcha dig med rätt möjligheter hos våra kunder.</p><p>Låter det intressant? Skicka in din ansökan eller hör av dig till oss så berättar vi mer. Vi ser fram emot att hitta nästa steg i din karriär tillsammans med dig.</p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "https://www.techrytera.se",
+        "organization_number": "5595683623",
+        "name": "Techrytera AB",
+        "workplace": "Techrytera AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": "teamtailor-7664325-1975879",
+        "email": null,
+        "via_af": false,
+        "url": "https://www.techrytera.se/jobs/7664325-data-engineer/applications/new?promotion=1975879-arbetsformedlingen",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "9U5Y_9Ji_uJq",
+        "label": "Dataingenjör",
+        "legacy_ams_taxonomy_id": "7338"
+      },
+      "occupation_group": {
+        "concept_id": "nDaB_vdy_eAy",
+        "label": "Ingenjörer och tekniker inom elektroteknik",
+        "legacy_ams_taxonomy_id": "3113"
+      },
+      "occupation_field": {
+        "concept_id": "6Hq3_tKo_V57",
+        "label": "Yrken med teknisk inriktning",
+        "legacy_ams_taxonomy_id": "18"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Jönköping",
+        "municipality_code": "0680",
+        "municipality_concept_id": "KURg_KJF_Lwc",
+        "region": "Jönköpings län",
+        "region_code": "06",
+        "region_concept_id": "MtbE_xWT_eMi",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Jönköping Centralstation",
+        "postcode": "55311",
+        "city": "Jonkoping",
+        "coordinates": [
+          14.153488293662027,
+          57.79699409575457
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Jönköping",
+          "municipality_code": "0680",
+          "municipality_concept_id": "KURg_KJF_Lwc",
+          "region": "Jönköpings län",
+          "region_code": "06",
+          "region_concept_id": "MtbE_xWT_eMi",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": "Jönköping Centralstation",
+          "postcode": "55311",
+          "city": "Jonkoping",
+          "coordinates": [
+            14.153488293662027,
+            57.79699409575457
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2026-04-30T11:53:20",
+      "last_publication_date": "2026-10-27T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_JOBPOSTING",
+      "timestamp": 1777573624056
+    },
+    {
+      "relevance": 0.9862387353728078,
+      "id": "31539076",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31539076",
+      "logo_url": null,
+      "headline": "Data Engineer",
+      "application_deadline": "2026-10-31T23:59:59",
+      "number_of_vacancies": 2,
+      "description": {
+        "text": "We are looking for a data warehouse developer who provides technical services related to IT analysis, design, build, testing and integration of all components of the Data Warehouse solution in conjunction with other project team members on a specific client engagement. This person shall also play a role within the project teams, managing communications with delivery managers and clients as well as a technical lead during development.\nAreas of Responsibility\nData Profiling, ETL Process, Data Model understanding, BI Solution Development, report maintenance, troubleshooting, performance tuning, etc.\nInterface with customers, project teams, and technical support staff as needed to resolve complex technical issues\nProvide technical expertise to data warehouse clients that will contribute to innovative business solutions.\nEffectively analyze, resolve and document business problems with minimal oversight from senior management (i.e. accountable for owning and resolving issues)\nEffectively multi-task between initiatives and consistently produce quality deliverables requiring minimal support from peers/supervisors.\n\nEducation\nBachelor's Degree from a reputed Educational Institute in computer science or related field.\n\nSkills & Experience\nExcellent Consulting, Oral and Written communication and Presentation skills\nStrong SQL and Database experience with a major RDBMS (for example Teradata, SQL Server, DB/2, Oracle)\nExcellent Troubleshooting skills\n5+ years of overall experience related to Data Warehousing with Customer facing project experience\nExperience with Logical and Physical Data Modelling, Database Architecture\nExperience with Data Warehousing and ETL Methodologies\n\nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "text_formatted": "<p>We are looking for a data warehouse developer who provides technical services related to IT analysis, design, build, testing and integration of all components of the Data Warehouse solution in conjunction with other project team members on a specific client engagement. This person shall also play a role within the project teams, managing communications with delivery managers and clients as well as a technical lead during development.</p><p>Areas of Responsibility</p><ul><li>Data Profiling, ETL Process, Data Model understanding, BI Solution Development, report maintenance, troubleshooting, performance tuning, etc.</li><li>Interface with customers, project teams, and technical support staff as needed to resolve complex technical issues</li><li>Provide technical expertise to data warehouse clients that will contribute to innovative business solutions.</li><li>Effectively analyze, resolve and document business problems with minimal oversight from senior management (i.e. accountable for owning and resolving issues)</li><li>Effectively multi-task between initiatives and consistently produce quality deliverables requiring minimal support from peers/supervisors.</li></ul><p>Education</p><ul><li>Bachelor's Degree from a reputed Educational Institute in computer science or related field.</li></ul><p>Skills &amp; Experience</p><ul><li>Excellent Consulting, Oral and Written communication and Presentation skills</li><li>Strong SQL and Database experience with a major RDBMS (for example Teradata, SQL Server, DB/2, Oracle)</li><li>Excellent Troubleshooting skills</li><li>5+ years of overall experience related to Data Warehousing with Customer facing project experience</li><li>Experience with Logical and Physical Data Modelling, Database Architecture</li><li>Experience with Data Warehousing and ETL Methodologies</li></ul><p id=\"oppenforalla\">Öppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.</p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "kpPX_CNN_gDU",
+        "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
+        "legacy_ams_taxonomy_id": null
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": null,
+        "organization_number": "5591980767",
+        "name": "Think. Done. AB",
+        "workplace": "Think Done AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": "admin.se@datamaticstechnologies.com",
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "YpXF_Mob_zM8",
+        "label": "Data Warehouse specialist",
+        "legacy_ams_taxonomy_id": "7135"
+      },
+      "occupation_group": {
+        "concept_id": "DJh5_yyF_hEM",
+        "label": "Mjukvaru- och systemutvecklare m.fl.",
+        "legacy_ams_taxonomy_id": "2512"
+      },
+      "occupation_field": {
+        "concept_id": "apaJ_2ja_LuF",
+        "label": "Data/IT",
+        "legacy_ams_taxonomy_id": "3"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Stockholm",
+          "municipality_code": "0180",
+          "municipality_concept_id": "AvNB_uwa_6n6",
+          "region": "Stockholms län",
+          "region_code": "01",
+          "region_concept_id": "CifL_Rzy_Mku",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": null,
+          "postcode": null,
+          "city": null,
+          "coordinates": [
+            null,
+            null
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [
+          {
+            "weight": 10,
+            "concept_id": "NVxJ_hLg_TYS",
+            "label": "Engelska",
+            "legacy_ams_taxonomy_id": "283"
+          }
+        ],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 5,
+            "concept_id": "YpXF_Mob_zM8",
+            "label": "Data Warehouse specialist",
+            "legacy_ams_taxonomy_id": "7135"
+          }
+        ],
+        "education": [
+          {
+            "weight": 5,
+            "concept_id": "FHxz_HhN_3Mk",
+            "label": "Data",
+            "legacy_ams_taxonomy_id": "14"
+          }
+        ],
+        "education_level": [
+          {
+            "weight": 5,
+            "concept_id": "asZm_TEQ_Srk",
+            "label": "Eftergymnasial utbildning två år eller längre",
+            "legacy_ams_taxonomy_id": "6"
+          }
+        ]
+      },
+      "application_contacts": [],
+      "publication_date": "2026-10-01T00:22:05",
+      "last_publication_date": "2026-10-31T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_ANNONSERA",
+      "timestamp": 1790806925698
+    },
+    {
+      "relevance": 0.9862387353728078,
+      "id": "31504326",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31504326",
+      "logo_url": null,
+      "headline": "Data Engineer",
+      "application_deadline": "2026-10-11T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "Company description:\nEpiroc is a leading productivity partner for the mining, infrastructure and natural resources industries. Withcutting-edge technology, Epiroc develops and produces innovative drill rigs, rock excavation and constructionequipment, and provides world-class service and consumables. The company was founded in Stockholm,Sweden, and has passionate people supporting and collaborating with customers in more than 150 countries.Learn more at www.epirocgroup.com.\nJob description:Data Engineer Let’s accelerate the transformation. Together. We are looking for a Data Engineer who wants to help shape the next chapter of our digital and AI journey within the Tools division. This is a role for someone who enjoys building from scratch, working close to real business challenges, and enabling AI solutions at scale in a global industrial environment.\n  \n Join our team\n At Epiroc Tools division, we are building a new Data & AI capability to accelerate the adoption of AI across our global operations, products, and services. As part of the Digital Innovation team, you will be at the center of this transformation, where we develop scalable AI products supporting the entire division. We are now expanding our team with dedicated Data Engineering capabilities to strengthen the foundation for our AI and analytics solutions. You will work closely with data scientists, product leads, and business stakeholders to build robust, scalable data pipelines that power AI-driven products end-to-end.\n  \n Your missionAs a Data Engineer, your mission is to build and scale the data foundation that enables modern AI products. You will play a key role in designing and implementing data pipelines, ensuring data quality, and enabling advanced analytics and machine learning across the organization.\n You will:•    Design, build, and optimize data pipelines for large-scale, cloud-based environments•    Ensure data availability, quality, and reliability for AI and analytics use cases•    Work closely with data scientists to enable feature pipelines and machine learning workflows•    Develop and maintain scalable architectures supporting end-to-end AI products•    Contribute to building a modern data platform (Databricks, cloud, orchestration, monitoring) •    Support the full data lifecycle, from ingestion and transformation to serving data for AI and business insights•    Collaborate with stakeholders across business, IT, and product teams to translate needs into scalable solutions\n You will be part of building something new, defining ways of working, setting standards, and shaping how we scale AI across the Tools division. You will help define not only what we built, but how we build it.\n  \n Your profileWe are looking for someone who combines strong technical skills with a pragmatic and collaborative mindset. You enjoy solving real problems, building robust systems, and working in a fast-evolving environment.\n We believe you bring:•    Experience as a Data Engineer or in a similar role (mid–senior level)•    Strong skills in Python and SQL for data processing and transformation •    Experience with cloud-based data platforms (e.g., Azure, Databricks) •    Experience building data pipelines and working with orchestration tools •    Understanding of modern data architectures and scalable data workflows•    Experience collaborating with data scientists and enabling ML pipelines\n As a person, you are:•    Curious and solution-oriented•    Collaborative and comfortable working cross-functionally•    Pragmatic, with a focus on delivering value•    Motivated by building something new and making real impact\n  \n Location and otherThis position can be located in Fagersta, Stockholm, or Örebro, Sweden. We offer a hybrid way of working that supports flexibility and work-life balance. Occasional travel may be required.\n  \n Why Epiroc?By joining our team, you’ll make a big difference in the energy transition. At Epiroc, we take pride in being passionate innovators, driving the change toward a brighter future for both people and the planet. Guided by our values of Collaboration, Commitment, and Innovation, we foster a culture of trust, growth, and lasting impact. \n You will be part of a journey where you:•    Build foundational capabilities for AI in an industrial context•    Work at the intersection of business, technology, and innovation•    Contribute to global solutions used across operations and markets•    Help scale AI from experimentation to production\n  \n Application and contact informationWe encourage you to submit your application through our online career site as soon as possible, but no later than 2026-10-11. Applications will be reviewed on a rolling basis, and the position may be filled before last application date.We are committed to a thorough recruitment process, including interviews, reference checks and assessments. To ensure a safe working environment, we conduct identity checks and drug and alcohol screening. Our process is designed to be fair and inclusive; you can expect transparent communication and a balanced evaluation of your skills and experience.",
+        "text_formatted": "Company description:<p>Epiroc is a leading productivity partner for the mining, infrastructure and natural resources industries. Withcutting-edge technology, Epiroc develops and produces innovative drill rigs, rock excavation and constructionequipment, and provides world-class service and consumables. The company was founded in Stockholm,Sweden, and has passionate people supporting and collaborating with customers in more than 150 countries.Learn more at www.epirocgroup.com.</p>Job description:Data Engineer Let’s accelerate the transformation. Together. <p>We are looking for a Data Engineer who wants to help shape the next chapter of our digital and AI journey within the Tools division. This is a role for someone who enjoys building from scratch, working close to real business challenges, and enabling AI solutions at scale in a global industrial environment.</p> <p> </p> <p><strong>Join our team</strong></p> <p>At Epiroc Tools division, we are building a new Data &amp; AI capability to accelerate the adoption of AI across our global operations, products, and services. As part of the Digital Innovation team, you will be at the center of this transformation, where we develop scalable AI products supporting the entire division. We are now expanding our team with dedicated Data Engineering capabilities to strengthen the foundation for our AI and analytics solutions. You will work closely with data scientists, product leads, and business stakeholders to build robust, scalable data pipelines that power AI-driven products end-to-end.</p> <p> </p> <p><strong>Your mission</strong>As a Data Engineer, your mission is to build and scale the data foundation that enables modern AI products. You will play a key role in designing and implementing data pipelines, ensuring data quality, and enabling advanced analytics and machine learning across the organization.</p> <p>You will:•    Design, build, and optimize data pipelines for large-scale, cloud-based environments•    Ensure data availability, quality, and reliability for AI and analytics use cases•    Work closely with data scientists to enable feature pipelines and machine learning workflows•    Develop and maintain scalable architectures supporting end-to-end AI products•    Contribute to building a modern data platform (Databricks, cloud, orchestration, monitoring) •    Support the full data lifecycle, from ingestion and transformation to serving data for AI and business insights•    Collaborate with stakeholders across business, IT, and product teams to translate needs into scalable solutions</p> <p>You will be part of building something new, defining ways of working, setting standards, and shaping how we scale AI across the Tools division. You will help define not only what we built, but how we build it.</p> <p> </p> <p><strong>Your profile</strong>We are looking for someone who combines strong technical skills with a pragmatic and collaborative mindset. You enjoy solving real problems, building robust systems, and working in a fast-evolving environment.</p> <p>We believe you bring:•    Experience as a Data Engineer or in a similar role (mid–senior level)•    Strong skills in Python and SQL for data processing and transformation •    Experience with cloud-based data platforms (e.g., Azure, Databricks) •    Experience building data pipelines and working with orchestration tools •    Understanding of modern data architectures and scalable data workflows•    Experience collaborating with data scientists and enabling ML pipelines</p> <p>As a person, you are:•    Curious and solution-oriented•    Collaborative and comfortable working cross-functionally•    Pragmatic, with a focus on delivering value•    Motivated by building something new and making real impact</p> <p> </p> <p><strong>Location and other</strong>This position can be located in Fagersta, Stockholm, or Örebro, Sweden. We offer a hybrid way of working that supports flexibility and work-life balance. Occasional travel may be required.</p> <p> </p> <p><strong>Why Epiroc?</strong>By joining our team, you’ll make a big difference in the energy transition. At Epiroc, we take pride in being passionate innovators, driving the change toward a brighter future for both people and the planet. Guided by our values of Collaboration, Commitment, and Innovation, we foster a culture of trust, growth, and lasting impact. </p> <p>You will be part of a journey where you:•    Build foundational capabilities for AI in an industrial context•    Work at the intersection of business, technology, and innovation•    Contribute to global solutions used across operations and markets•    Help scale AI from experimentation to production</p> <p> </p> <p><strong>Application and contact information</strong>We encourage you to submit your application through our online career site as soon as possible, but no later than 2026-10-11. Applications will be reviewed on a rolling basis, and the position may be filled before last application date.We are committed to a thorough recruitment process, including interviews, reference checks and assessments. To ensure a safe working environment, we conduct identity checks and drug and alcohol screening. Our process is designed to be fair and inclusive; you can expect transparent communication and a balanced evaluation of your skills and experience.</p> <p> </p> <p> </p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "https://www.epirocgroup.com",
+        "organization_number": "5560779018",
+        "name": "Epiroc Rock Drills Aktiebolag",
+        "workplace": "Epiroc"
+      },
+      "application_details": {
+        "information": null,
+        "reference": "86083-44458535",
+        "email": null,
+        "via_af": false,
+        "url": "https://epiroc-rock-drills-ab.contactrh.com/jobs/9669/44458535",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "9U5Y_9Ji_uJq",
+        "label": "Dataingenjör",
+        "legacy_ams_taxonomy_id": "7338"
+      },
+      "occupation_group": {
+        "concept_id": "nDaB_vdy_eAy",
+        "label": "Ingenjörer och tekniker inom elektroteknik",
+        "legacy_ams_taxonomy_id": "3113"
+      },
+      "occupation_field": {
+        "concept_id": "6Hq3_tKo_V57",
+        "label": "Yrken med teknisk inriktning",
+        "legacy_ams_taxonomy_id": "18"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Nacka",
+        "municipality_code": "0182",
+        "municipality_concept_id": "aYA7_PpG_BqP",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": "70244",
+        "city": "Stockholm",
+        "coordinates": [
+          18.156042,
+          59.307903
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Nacka",
+          "municipality_code": "0182",
+          "municipality_concept_id": "aYA7_PpG_BqP",
+          "region": "Stockholms län",
+          "region_code": "01",
+          "region_concept_id": "CifL_Rzy_Mku",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": null,
+          "postcode": "70244",
+          "city": "Stockholm",
+          "coordinates": [
+            18.156042,
+            59.307903
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2026-09-22T09:25:02",
+      "last_publication_date": "2026-10-11T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_JOBPOSTING",
+      "timestamp": 1790061902506
+    },
+    {
+      "relevance": 0.9862387353728078,
+      "id": "31353858",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31353858",
+      "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5567796544/logotyper/logo.png",
+      "headline": "Data Engineer",
+      "application_deadline": "2027-02-10T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "If you’re looking to make the best co-op games in the world, you’ve come to the right place. We're proud to have some of the best game makers and collaborators in the industry working with us. What's more, we're a fun bunch of game developers, who love to indulge in our passion for video games together. Our games are not for everyone. Are they for you? \nWe are now looking for a Data Engineer! \nAs a Data Engineer, you will play a key role in the design, optimization, and operation of our data infrastructure and backend systems. You will work closely with a collaborative team of engineers, focusing on technologies such as SQL Server, Azure Data Factory, Azure, C# and ASP.NET Core. If you are passionate about building scalable, efficient, data-driven backend solutions, we want to hear from you.\nWho you are:\n\nYou have experience tuning all aspects of SQL Server, including query and execution-plan analysis and know exactly where to place the right index.\n\n\nYour savvy troubleshooting skills include identifying and mitigating locking and concurrency issues.\n\n\nYou know what is important when it comes to observability and monitoring, what needs acting on as well as identifying blind spots.\n\n\nYou are comfortable automating and orchestrating repetitive tasks such as reports and data exports.\n\n\nYou are experienced with data classification and different retention needs.\n\n\nYou have experience in backend development using C# and ASP.NET Core.\n\n\nYou are familiar with cloud platform providers such as Azure and their data infrastructure services.\n\n\nWhat you'll do:\n\nDatabase management: Design and implement efficient database structures using SQL Server, optimizing data storage, and retrieval for optimal system performance.\n\n\nDatabase operations: Ensure database operations under sustained production load are healthy and performant, supporting both players, designers and fellow developers in their day-to-day activities.\n\n\nDatabase observability: Create and maintain alert rules, the SQL metrics exporter, Grafana dashboards, and Extended-Events-based performance diagnostics.\n\n\nData pipelines: Operate and evolve the Azure Data Factory pipelines, maintenance, and telemetry events.\n\n\nApplication development: Design and develop backend solutions using C#, ASP.NET Core, and Microsoft Orleans, ensuring high performance, scalability, and maintainability.\n\n\nCloud integration: Utilize Azure services to build and optimize cloud-based backend components, ensuring seamless integration with our applications.\n\n\nCollaboration: Work closely with cross-functional teams and external stakeholders to understand requirements, provide technical insights, and ensure the successful delivery of projects.\n\nOur tech stack\nAzure SQL Server, Azure Data Factory, NET/C#, ASPNET Core, Docker, Kubernetes/AKS, CosmosDB, Redis, Grafana, MS Orleans, Kafka \n\nHow to apply\nIf you think that this position matches your background and skills, we would love to hear from you. Please submit your CV in English as soon as possible. We ask that your application always include relevant work samples or a link to your portfolio.\nWe interview candidates continuously and hire when we find a good fit.  \nPractical Information\nScope: Full-time: 40 hours per week with initial 6 month probation period. Location: Office first. \nWe are a pet friendly office! You can expect to find cute dogs and occasionally some cats around.\nWhat we offer\nArrowhead Game Studios is a growing team of about 140+ people, best known for our co-op titles. Despite our size, we remain a friendly and down to earth bunch, who love to indulge in our passion for video games together.\nLocated in the heart of Södermalm, in Fatburen in the middle of the Game Dev scene we enjoy everything Stockholm has to offer. The is a a lot of different types of activities immediately available on our doorstep.\nOur talented developers are crucial to our success, therefore we put a lot of emphasis in creating and maintaining a prosperous culture. We’re committed to open and transparent communication. Your ideas are welcomed, valued, appreciated - the ceiling for creative discussions is high.\nWe also have numerous work benefits for all our employees. You can read about them here! \nÖppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.",
+        "text_formatted": "<p><em>If you’re looking to make the best co-op games in the world, you’ve come to the right place. We're proud to have some of the best game makers and collaborators in the industry working with us. What's more, we're a fun bunch of game developers, who love to indulge in our passion for video games together. Our games are not for everyone. Are they for you? </em></p><strong>We are now looking for a Data Engineer! </strong><p>As a Data Engineer, you will play a key role in the design, optimization, and operation of our data infrastructure and backend systems. You will work closely with a collaborative team of engineers, focusing on technologies such as SQL Server, Azure Data Factory, Azure, C# and ASP.NET Core. If you are passionate about building scalable, efficient, data-driven backend solutions, we want to hear from you.</p><p><strong>Who you are:</strong></p><ul><li><p>You have experience tuning all aspects of SQL Server, including query and execution-plan analysis and know exactly where to place the right index.</p></li><li><p>Your savvy troubleshooting skills include identifying and mitigating locking and concurrency issues.</p></li><li><p>You know what is important when it comes to observability and monitoring, what needs acting on as well as identifying blind spots.</p></li><li><p>You are comfortable automating and orchestrating repetitive tasks such as reports and data exports.</p></li><li><p>You are experienced with data classification and different retention needs.</p></li><li><p>You have experience in backend development using C# and ASP.NET Core.</p></li><li><p>You are familiar with cloud platform providers such as Azure and their data infrastructure services.</p></li></ul><p><strong>What you'll do:</strong></p><ul><li><p><strong>Database management</strong>: Design and implement efficient database structures using SQL Server, optimizing data storage, and retrieval for optimal system performance.</p></li><li><p><strong>Database operations</strong>: Ensure database operations under sustained production load are healthy and performant, supporting both players, designers and fellow developers in their day-to-day activities.</p></li><li><p><strong>Database observability</strong>: Create and maintain alert rules, the SQL metrics exporter, Grafana dashboards, and Extended-Events-based performance diagnostics.</p></li><li><p><strong>Data pipelines</strong>: Operate and evolve the Azure Data Factory pipelines, maintenance, and telemetry events.</p></li><li><p><strong>Application development</strong>: Design and develop backend solutions using C#, ASP.NET Core, and Microsoft Orleans, ensuring high performance, scalability, and maintainability.</p></li><li><p><strong>Cloud integration</strong>: Utilize Azure services to build and optimize cloud-based backend components, ensuring seamless integration with our applications.</p></li><li><p><strong>Collaboration:</strong> Work closely with cross-functional teams and external stakeholders to understand requirements, provide technical insights, and ensure the successful delivery of projects.</p></li></ul><strong><strong>Our tech stack</strong></strong><ul><li><p>Azure SQL Server, Azure Data Factory, NET/C#, ASPNET Core, Docker, Kubernetes/AKS, CosmosDB, Redis, Grafana, MS Orleans, Kafka </p></li></ul><strong><strong>How to apply</strong></strong><p>If you think that this position matches your background and skills, we would love to hear from you. Please submit your CV in English as soon as possible. We ask that your application always include relevant work samples or a link to your portfolio.</p><p>We interview candidates continuously and hire when we find a good fit.  </p><strong>Practical Information</strong><p><strong>Scope:</strong> Full-time: 40 hours per week with initial 6 month probation period. <strong>Location:</strong> Office first.<strong> </strong></p><p><strong>We are a pet friendly office! You can expect to find cute dogs and occasionally some cats around.</strong></p><strong>What we offer</strong><p>Arrowhead Game Studios is a growing team of about 140+ people, best known for our co-op titles. Despite our size, we remain a friendly and down to earth bunch, who love to indulge in our passion for video games together.</p><p>Located in the heart of Södermalm, in Fatburen in the middle of the Game Dev scene we enjoy everything Stockholm has to offer. The is a a lot of different types of activities immediately available on our doorstep.</p><p>Our talented developers are crucial to our success, therefore we put a lot of emphasis in creating and maintaining a prosperous culture. We’re committed to open and transparent communication. Your ideas are welcomed, valued, appreciated - the ceiling for creative discussions is high.</p><p>We also have numerous work benefits for all our employees. You can read about them here!<strong> </strong></p><p id=\"oppenforalla\">Öppen för alla\nVi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.</p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "https://jobs.arrowheadgamestudios.com",
+        "organization_number": "5567796544",
+        "name": "Arrowhead Game Studios AB",
+        "workplace": "Arrowhead Game Studios"
+      },
+      "application_details": {
+        "information": null,
+        "reference": "teamtailor-7916085-2145609",
+        "email": null,
+        "via_af": false,
+        "url": "https://jobs.arrowheadgamestudios.com/jobs/7916085-data-engineer/applications/new?promotion=2145609-arbetsformedlingen",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "9U5Y_9Ji_uJq",
+        "label": "Dataingenjör",
+        "legacy_ams_taxonomy_id": "7338"
+      },
+      "occupation_group": {
+        "concept_id": "nDaB_vdy_eAy",
+        "label": "Ingenjörer och tekniker inom elektroteknik",
+        "legacy_ams_taxonomy_id": "3113"
+      },
+      "occupation_field": {
+        "concept_id": "6Hq3_tKo_V57",
+        "label": "Yrken med teknisk inriktning",
+        "legacy_ams_taxonomy_id": "18"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Södermalmsallén 36",
+        "postcode": "11828",
+        "city": "Stockholm",
+        "coordinates": [
+          18.0694886676169,
+          59.3136094117335
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Stockholm",
+          "municipality_code": "0180",
+          "municipality_concept_id": "AvNB_uwa_6n6",
+          "region": "Stockholms län",
+          "region_code": "01",
+          "region_concept_id": "CifL_Rzy_Mku",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": "Södermalmsallén 36",
+          "postcode": "11828",
+          "city": "Stockholm",
+          "coordinates": [
+            18.0694886676169,
+            59.3136094117335
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2026-08-14T13:05:31",
+      "last_publication_date": "2027-02-10T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_JOBPOSTING",
+      "timestamp": 1786705531980
+    },
+    {
+      "relevance": 0.9862387353728078,
+      "id": "31209863",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31209863",
+      "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5566803622/logotyper/logo.png",
+      "headline": "Data Engineer",
+      "application_deadline": "2026-12-21T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "What will you do?\nAs a Data Engineer at Rebtel, you will do more than build pipelines; you'll help shape the future of our data platform and influence how data is used across the company. At Rebtel, data sits at the heart of how we build products, understand customers, optimize growth, and make decisions.\nThis is a hands-on engineering role with significant ownership. You'll work across our modern data stack, build scalable data products, and help define the architecture that supports analytics, automation, and future AI initiatives.\nIf you're excited by clean architecture, modern data engineering practices, and solving meaningful business problems at scale; if you care about data quality and believe trust in data is built through engineering discipline; if you enjoy solving complex problems and turning ambiguity into practical solutions; and if you're excited to experiment with new technologies and approaches, we'd love to talk.\nAreas of ownership:\n\nDesign, build, and maintain scalable, reliable data pipelines that power our Snowflake data platform\n\n\nIntegrate data from a wide range of business and product systems\n\n\nEnable data activation across customer-facing and operational platforms, including CRM, customer support, and marketing tools\n\n\nDevelop robust monitoring, alerting, and observability practices to ensure platform reliability\n\n\nTroubleshoot, optimize, and continuously improve data workflows and platform performance\n\n\nDesign and implement scalable ELT workflows using modern data engineering practices\n\n\nBuild well-structured dimensional models (facts and dimensions) that enable self-service analytics and reporting\n\n\nImplement automated testing and quality controls throughout the data lifecycle\n\n\nEnsure data is accurate, accessible, and trusted across the organization\n\n\nWork closely with analysts, product managers, engineers, marketers, and business stakeholders to understand data needs and deliver impactful solutions\n\n\nHelp translate complex business challenges into scalable data products and datasets\n\n\nSupport decision-making by making data easier to discover, understand, and use\n\n\nEvaluate emerging technologies, frameworks, and industry best practices\n\n\nRun proof-of-concepts and contribute to strategic technology decisions\n\n\nHelp define the future architecture of Rebtel's data platform\n\n\nContinuously improve engineering standards, tooling, and developer experience\n\n\nRequirements:\n\nYou are an excellent communicator and collaborator. We work in English, but you will hear many languages in our Stockholm office\n\n\n3+ years of experience in Data Engineering or a similar role\n\n\nStrong SQL skills and experience building production-grade data pipelines\n\n\nExperience with modern ELT methodologies and data warehousing concepts\n\n\nExperience integrating data from multiple systems and sources\n\n\nExperience with dbt, Python, AWS, or similar cloud-based data platforms\n\n\nStrong understanding of data modeling and analytics engineering best practices\n\n\nAbility to operate independently and take ownership of technical solutions\n\n\nExperience working in fast-growing technology or digital product companies is a plus\n\n\nIt's a bonus if you've been exposured to customer analytics, marketing analytics, experimentation, or machine learning workflows\n\n\nExperience with BI tools such as Looker, Tableau, or Power BI is a plus\n\n\nIt's a plus with a degree in Computer Science, Engineering, Mathematics, or a related field\n\n\nWhy Rebtel?\nRebtel has been connecting people across borders for nearly 20 years. Today, we’re profitable, growing, and at a pivotal moment in our journey. As we enter our next phase, we’re building an organisation designed for speed, ownership, and real impact, where every role contributes directly to shaping what comes next.\nThis is a place with global ambition and a strong foundation, where ideas move quickly and decisions matter. You won’t get lost in layers of process or slow-moving structures. Instead, you’ll find the space to take ownership, collaborate across teams, and make meaningful contributions from day one. Based in Stockholm, we bring together a diverse, international team united by a shared purpose: to simplify the way people connect worldwide.\nAt Rebtel, you are the most important asset and we strive to provide a comprehensive package of benefits and perks that enhance your well-being and work experience. Here are some of the things you can expect from us:\n\nPension Plan\n\n\nHealth Checkups, Influenza shots and Private Medical Insurance\n\n\nDental Insurance\n\n\nOccupational insurance\n\n\nWellness allowance (5,000 SEK)\n\n\nDiscount on gym memberships\n\n\nBonus program\n\n\nExtra parental pay\n\n\n30 days annual vacation\n\n\nMonday breakfasts\n\n\nRelocation Support, if you're joining us from afar, we'll assist you in making a smooth transition.\n\n\nWe are Rebtel. We come from all around the world to create products for anyone who has crossed a border. We believe in equal opportunity and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+        "text_formatted": "<p><strong>What will you do?</strong></p><p>As a Data Engineer at Rebtel, you will do more than build pipelines; you'll help shape the future of our data platform and influence how data is used across the company. At Rebtel, data sits at the heart of how we build products, understand customers, optimize growth, and make decisions.</p><p>This is a hands-on engineering role with significant ownership. You'll work across our modern data stack, build scalable data products, and help define the architecture that supports analytics, automation, and future AI initiatives.</p><p>If you're excited by clean architecture, modern data engineering practices, and solving meaningful business problems at scale; if you care about data quality and believe trust in data is built through engineering discipline; if you enjoy solving complex problems and turning ambiguity into practical solutions; and if you're excited to experiment with new technologies and approaches, we'd love to talk.</p><p><strong>Areas of ownership:</strong></p><ul><li><p>Design, build, and maintain scalable, reliable data pipelines that power our Snowflake data platform</p></li><li><p>Integrate data from a wide range of business and product systems</p></li><li><p>Enable data activation across customer-facing and operational platforms, including CRM, customer support, and marketing tools</p></li><li><p>Develop robust monitoring, alerting, and observability practices to ensure platform reliability</p></li><li><p>Troubleshoot, optimize, and continuously improve data workflows and platform performance</p></li><li><p>Design and implement scalable ELT workflows using modern data engineering practices</p></li><li><p>Build well-structured dimensional models (facts and dimensions) that enable self-service analytics and reporting</p></li><li><p>Implement automated testing and quality controls throughout the data lifecycle</p></li><li><p>Ensure data is accurate, accessible, and trusted across the organization</p></li><li><p>Work closely with analysts, product managers, engineers, marketers, and business stakeholders to understand data needs and deliver impactful solutions</p></li><li><p>Help translate complex business challenges into scalable data products and datasets</p></li><li><p>Support decision-making by making data easier to discover, understand, and use</p></li><li><p>Evaluate emerging technologies, frameworks, and industry best practices</p></li><li><p>Run proof-of-concepts and contribute to strategic technology decisions</p></li><li><p>Help define the future architecture of Rebtel's data platform</p></li><li><p>Continuously improve engineering standards, tooling, and developer experience</p></li></ul><p><strong>Requirements:</strong></p><ul><li><p>You are an excellent communicator and collaborator. We work in English, but you will hear many languages in our Stockholm office</p></li><li><p>3+ years of experience in Data Engineering or a similar role</p></li><li><p>Strong SQL skills and experience building production-grade data pipelines</p></li><li><p>Experience with modern ELT methodologies and data warehousing concepts</p></li><li><p>Experience integrating data from multiple systems and sources</p></li><li><p>Experience with dbt, Python, AWS, or similar cloud-based data platforms</p></li><li><p>Strong understanding of data modeling and analytics engineering best practices</p></li><li><p>Ability to operate independently and take ownership of technical solutions</p></li><li><p>Experience working in fast-growing technology or digital product companies is a plus</p></li><li><p>It's a bonus if you've been exposured to customer analytics, marketing analytics, experimentation, or machine learning workflows</p></li><li><p>Experience with BI tools such as Looker, Tableau, or Power BI is a plus</p></li><li><p>It's a plus with a degree in Computer Science, Engineering, Mathematics, or a related field</p></li></ul><p><strong>Why Rebtel?</strong></p><p>Rebtel has been connecting people across borders for nearly 20 years. Today, we’re profitable, growing, and at a pivotal moment in our journey. As we enter our next phase, we’re building an organisation designed for speed, ownership, and real impact, where every role contributes directly to shaping what comes next.</p><p>This is a place with global ambition and a strong foundation, where ideas move quickly and decisions matter. You won’t get lost in layers of process or slow-moving structures. Instead, you’ll find the space to take ownership, collaborate across teams, and make meaningful contributions from day one. Based in Stockholm, we bring together a diverse, international team united by a shared purpose: to simplify the way people connect worldwide.</p><p>At Rebtel, you are the most important asset and we strive to provide a comprehensive package of benefits and perks that enhance your well-being and work experience. Here are some of the things you can expect from us:</p><ul><li><p>Pension Plan</p></li><li><p>Health Checkups, Influenza shots and Private Medical Insurance</p></li><li><p>Dental Insurance</p></li><li><p>Occupational insurance</p></li><li><p>Wellness allowance (5,000 SEK)</p></li><li><p>Discount on gym memberships</p></li><li><p>Bonus program</p></li><li><p>Extra parental pay</p></li><li><p>30 days annual vacation</p></li><li><p>Monday breakfasts</p></li><li><p>Relocation Support, if you're joining us from afar, we'll assist you in making a smooth transition.</p></li></ul><p><em>We are Rebtel. We come from all around the world to create products for anyone who has crossed a border. We believe in equal opportunity and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "https://rebtel.teamtailor.com",
+        "organization_number": "5566803622",
+        "name": "RebTel Networks AB",
+        "workplace": "Rebtel"
+      },
+      "application_details": {
+        "information": null,
+        "reference": "teamtailor-7920016-2068090",
+        "email": null,
+        "via_af": false,
+        "url": "https://rebtel.teamtailor.com/jobs/7920016-data-engineer/applications/new?promotion=2068090-arbetsformedlingen",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "9U5Y_9Ji_uJq",
+        "label": "Dataingenjör",
+        "legacy_ams_taxonomy_id": "7338"
+      },
+      "occupation_group": {
+        "concept_id": "nDaB_vdy_eAy",
+        "label": "Ingenjörer och tekniker inom elektroteknik",
+        "legacy_ams_taxonomy_id": "3113"
+      },
+      "occupation_field": {
+        "concept_id": "6Hq3_tKo_V57",
+        "label": "Yrken med teknisk inriktning",
+        "legacy_ams_taxonomy_id": "18"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Jakobsbergsgatan 16",
+        "postcode": "11144",
+        "city": "Stockholm",
+        "coordinates": [
+          18.0705272579308,
+          59.3348820030708
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Stockholm",
+          "municipality_code": "0180",
+          "municipality_concept_id": "AvNB_uwa_6n6",
+          "region": "Stockholms län",
+          "region_code": "01",
+          "region_concept_id": "CifL_Rzy_Mku",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": "Jakobsbergsgatan 16",
+          "postcode": "11144",
+          "city": "Stockholm",
+          "coordinates": [
+            18.0705272579308,
+            59.3348820030708
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2026-06-24T10:31:28",
+      "last_publication_date": "2026-12-21T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_JOBPOSTING",
+      "timestamp": 1782289888990
+    },
+    {
+      "relevance": 0.9862387353728078,
+      "id": "31207318",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31207318",
+      "logo_url": "https://arbetsformedlingen.se/rest/employer-logo-api/api/v1/organisation/5563047041/logotyper/logo.png",
+      "headline": "Data Engineer",
+      "application_deadline": "2026-12-20T23:59:59",
+      "number_of_vacancies": 1,
+      "description": {
+        "text": "At Viaplay Group, we entertain millions of people every day through our streaming services, radio networks, and TV channels. We believe in the power of content not just as a way of telling stories and touching lives, but also expanding worlds.  \nWe’re looking for the best people to join us on our journey. Right now, we’re searching for a Data Engineer in our Stockholm office – are you ready to hit play on an exciting career change? \nThe role \nThe Ad Platform Solutions team sits within Viaplay Digital Ad Product, bridging commercial priorities and technical delivery in Viaplay. You will be joining a small, growing team where your work connects directly to how the sales organisation operates every day.\nAs our new Data Engineer, you will play a central role in developing and improving the data infrastructure that powers ad sales across all Viaplay markets. We’ve built a solid foundation that supports our operations today, and we’re now looking for someone to take ownership of it - improving and strengthening what’s already in place, while also influencing architecture and shaping how the platform evolves.\nThis is a hands-on engineering role. In a small team, you will work across the full data lifecycle - from pipeline development and orchestration to data modelling, ensuring the right data reaches the right people. Your day-to-day will include: \n• Building and maintaining data pipelines that power ad sales reporting and operations across Sweden, Norway, and Denmark\n• Structuring and modelling data so it is clean, consistent, and genuinely useful to the business\n• Identifying and resolving issues in existing pipelines, reducing manual work and improving reliability\n• Translating needs from stakeholders into solid technical solutions\n• Contributing to architectural decisions as the platform evolves \nWe actively use AI-assisted tools as part of our development workflow to improve efficiency and speed up delivery. We expect engineers to use these tools effectively, while critically evaluating outputs and maintaining full ownership of the systems they build.\nWhat we’re looking for \nWe understand you may feel confident ticking certain boxes more than others and that’s why we always keep an open mind in our recruitment process. But, in order to thrive in this role, we do believe you’ll have at least some experience in the following: \n• Solid, production-level data engineering experience - you have done this before and know what good looks like\n• Strong skills in Python and/or C#, with confident SQL and hands-on database experience, relational databases such as SQL Server and PostgreSQL.\n• Experience working with cloud-based data platforms, particularly in Azure environments.\n• Experience building and maintaining data pipelines using orchestration tools (such as Airflow or Meltano), along with a solid understanding of data warehouse principles (e.g. dimensional modelling, data quality, and performance optimisation)\n• Experience using AI-assisted coding tools (e.g. GitHub Copilot, Claude) in a development workflow\n• Comfortable working autonomously in a small team, with a strong sense of ownership and the ability to drive work forward without much hand-holding \nIt’s a bonus if you have: \n• Experience with ad sales, digital advertising data, or media industry systems\n• A can-do attitude, sense of humor and the ability to work humbly with others. \nWhat we offer you\nWe’ve got you covered! 30 days of paid vacation every year, an attractive pension and insurance scheme, and generous parental leave pay lift.   Your wellbeing matters. We provide you with various wellbeing initiatives including wellness allowance.   A safe space to grow and up-skill. Our learning culture puts you in the driver’s seat of your own development.\nEntertainment is what we love, and entertainment is what we do. So, unlimited access to Viaplay seems only fair for you to get to know the product – including series & viewing events, new release movie rentals, linear channels and more. \nHit play today \nIf this feels like your kind of challenge, make sure you apply by attaching your CV here – you may also want to add your LinkedIn profile. Please don’t send us your application via email because we won’t be able to accept it. We do, however, welcome any questions you may have about this particular position.  \nWant to learn more about who we are and what we do? Check out our careers page or follow us on Instagram! We’re only ever a few clicks away.",
+        "text_formatted": "<p>At Viaplay Group, we entertain millions of people every day through our streaming services, radio networks, and TV channels. We believe in the power of content not just as a way of telling stories and touching lives, but also expanding worlds.  </p><p>We’re looking for the best people to join us on our journey. Right now, we’re searching for a <strong>Data Engineer</strong> in our <strong>Stockholm office</strong> – are you ready to hit play on an exciting career change? </p><strong>The role </strong><p>The Ad Platform Solutions team sits within Viaplay Digital Ad Product, bridging commercial priorities and technical delivery in Viaplay. You will be joining a small, growing team where your work connects directly to how the sales organisation operates every day.</p><p>As our new Data Engineer, you will play a central role in developing and improving the data infrastructure that powers ad sales across all Viaplay markets. We’ve built a solid foundation that supports our operations today, and we’re now looking for someone to take ownership of it - improving and strengthening what’s already in place, while also influencing architecture and shaping how the platform evolves.</p><p>This is a hands-on engineering role. In a small team, you will work across the full data lifecycle - from pipeline development and orchestration to data modelling, ensuring the right data reaches the right people. Your day-to-day will include: </p><p>• Building and maintaining data pipelines that power ad sales reporting and operations across Sweden, Norway, and Denmark</p><p>• Structuring and modelling data so it is clean, consistent, and genuinely useful to the business</p><p>• Identifying and resolving issues in existing pipelines, reducing manual work and improving reliability</p><p>• Translating needs from stakeholders into solid technical solutions</p><p>• Contributing to architectural decisions as the platform evolves </p><p>We actively use AI-assisted tools as part of our development workflow to improve efficiency and speed up delivery. We expect engineers to use these tools effectively, while critically evaluating outputs and maintaining full ownership of the systems they build.</p><strong>What we’re looking for </strong><p>We understand you may feel confident ticking certain boxes more than others and that’s why we always keep an open mind in our recruitment process. But, in order to thrive in this role, we do believe you’ll have at least some experience in the following: </p><p>• Solid, production-level data engineering experience - you have done this before and know what good looks like</p><p>• Strong skills in Python and/or C#, with confident SQL and hands-on database experience, relational databases such as SQL Server and PostgreSQL.</p><p>• Experience working with cloud-based data platforms, particularly in Azure environments.</p><p>• Experience building and maintaining data pipelines using orchestration tools (such as Airflow or Meltano), along with a solid understanding of data warehouse principles (e.g. dimensional modelling, data quality, and performance optimisation)</p><p>• Experience using AI-assisted coding tools (e.g. GitHub Copilot, Claude) in a development workflow</p><p>• Comfortable working autonomously in a small team, with a strong sense of ownership and the ability to drive work forward without much hand-holding </p><p><strong>It’s a bonus if you have:</strong> </p><p>• Experience with ad sales, digital advertising data, or media industry systems</p><p>• A can-do attitude, sense of humor and the ability to work humbly with others. </p><strong>What we offer you</strong><p><strong>We’ve got you covered! 30 days</strong> of paid vacation every year, an attractive pension and insurance scheme, and generous parental leave pay lift.  <strong> Your wellbeing matters.</strong> We provide you with various wellbeing initiatives including wellness allowance.  <strong> A safe space to grow and up-skill. </strong>Our learning culture puts you in the driver’s seat of your own development.<strong></strong></p><p>Entertainment is what we love, and entertainment is what we do. So, unlimited access to Viaplay seems only fair for you to get to know the product – including series &amp; viewing events, new release movie rentals, linear channels and more. </p><strong>Hit play today </strong><p>If this feels like your kind of challenge, make sure you apply by attaching your CV here – you may also want to add your LinkedIn profile. Please don’t send us your application via email because we won’t be able to accept it. We do, however, welcome any questions you may have about this particular position.  </p><p>Want to learn more about who we are and what we do? Check out our careers page or follow us on Instagram! We’re only ever a few clicks away. </p><p> </p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "PFZr_Syz_cUq",
+        "label": "Vanlig anställning",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "https://careers.viaplaygroup.com",
+        "organization_number": "5563047041",
+        "name": "Viaplay Group Sweden AB",
+        "workplace": "Viaplay Group"
+      },
+      "application_details": {
+        "information": null,
+        "reference": "teamtailor-7548319-2066576",
+        "email": null,
+        "via_af": false,
+        "url": "https://careers.viaplaygroup.com/jobs/7548319-data-engineer/applications/new?promotion=2066576-arbetsformedlingen",
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "9U5Y_9Ji_uJq",
+        "label": "Dataingenjör",
+        "legacy_ams_taxonomy_id": "7338"
+      },
+      "occupation_group": {
+        "concept_id": "nDaB_vdy_eAy",
+        "label": "Ingenjörer och tekniker inom elektroteknik",
+        "legacy_ams_taxonomy_id": "3113"
+      },
+      "occupation_field": {
+        "concept_id": "6Hq3_tKo_V57",
+        "label": "Yrken med teknisk inriktning",
+        "legacy_ams_taxonomy_id": "18"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": "Ringvägen 52",
+        "postcode": "11867",
+        "city": "Stockholm",
+        "coordinates": [
+          18.059232612476,
+          59.3100197845735
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Stockholm",
+          "municipality_code": "0180",
+          "municipality_concept_id": "AvNB_uwa_6n6",
+          "region": "Stockholms län",
+          "region_code": "01",
+          "region_concept_id": "CifL_Rzy_Mku",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": "Ringvägen 52",
+          "postcode": "11867",
+          "city": "Stockholm",
+          "coordinates": [
+            18.059232612476,
+            59.3100197845735
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "nice_to_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2026-06-23T15:05:15",
+      "last_publication_date": "2026-12-20T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_JOBPOSTING",
+      "timestamp": 1782219915449
+    },
+    {
+      "relevance": 0.9862387353728078,
+      "id": "31065405",
+      "external_id": null,
+      "original_id": null,
+      "label": [],
+      "webpage_url": "https://arbetsformedlingen.se/platsbanken/annonser/31065405",
+      "logo_url": null,
+      "headline": "Data Engineer",
+      "application_deadline": "2026-11-10T23:59:59",
+      "number_of_vacancies": 2,
+      "description": {
+        "text": "In this role, you will work with our customers on various data engineering projects. This role\nis perfect for those with a good foundation in data engineering, and a passion for operational\nexcellence in data management and analytics. You will design, build, and maintain efficient,\nscalable data pipelines and work closely with data scientists, analysts, and stakeholders to\ndeliver customized data solutions that drive impactful business decisions.\nDevelop and manage scalable data pipelines, ensuring efficient and reliable data flows.\nImplement processes and solutions to improve data quality, accuracy, and consistency.\nCreate scripts and tools to automate repetitive tasks, improving efficiency and reducing manual work.\nBuild and maintain data integrations, including file, messaging, and API-based systems.\nDevelop data models tailored to meet business requirements.\nContribute to implementing infrastructure as code solutions.\nCollaborate with data scientists, architects, and software developers to support the\ncreation of data architecture and governance models.\nEnhance the performance of existing data pipelines, optimizing queries and indexing for faster data retrieval.\nImplement security measures to protect data from unauthorized access.\nEnsure compliance with data governance policies and regulatory requirements, maintaining documentation and data lineage.\nMonitor cost efficiency and identify areas for optimization.\nYou are passionate about building data products and enabling data-driven decisions.\nYou enjoy sharing knowledge and learning new things in the data, analytics & AI area.\nYou want to develop and maintain robust, scalable data and analytics systems.\nYou have the ability to work both independently and collaboratively within a team environment.\nFluent in English both written and verbal.\nYou are eager to learn and have a basic understanding of working with data sets\nYou are gaining experience with ETL workflows and excited to improve your skills in\nstreamlining these processes.\nYou have a foundational knowledge of big data concepts, cloud technologies, and data modeling.\nYour skills in SQL and Python are strong, with a focus on writing efficient queries.\nYou are gaining hands-on experience with cloud platforms like AWS, Azure, or Google\nCloud and are keen to expand your knowledge.",
+        "text_formatted": "<p>In this role, you will work with our customers on various data engineering projects. This role</p><p>is perfect for those with a good foundation in data engineering, and a passion for operational</p><p>excellence in data management and analytics. You will design, build, and maintain efficient,</p><p>scalable data pipelines and work closely with data scientists, analysts, and stakeholders to</p><p>deliver customized data solutions that drive impactful business decisions.</p><p>Develop and manage scalable data pipelines, ensuring efficient and reliable data flows.</p><p>Implement processes and solutions to improve data quality, accuracy, and consistency.</p><p>Create scripts and tools to automate repetitive tasks, improving efficiency and reducing manual work.</p><p>Build and maintain data integrations, including file, messaging, and API-based systems.</p><p>Develop data models tailored to meet business requirements.</p><p>Contribute to implementing infrastructure as code solutions.</p><p>Collaborate with data scientists, architects, and software developers to support the</p><p>creation of data architecture and governance models.</p><p>Enhance the performance of existing data pipelines, optimizing queries and indexing for faster data retrieval.</p><p>Implement security measures to protect data from unauthorized access.</p><p>Ensure compliance with data governance policies and regulatory requirements, maintaining documentation and data lineage.</p><p>Monitor cost efficiency and identify areas for optimization.</p><p>You are passionate about building data products and enabling data-driven decisions.</p><p>You enjoy sharing knowledge and learning new things in the data, analytics &amp; AI area.</p><p>You want to develop and maintain robust, scalable data and analytics systems.</p><p>You have the ability to work both independently and collaboratively within a team environment.</p><p>Fluent in English both written and verbal.</p><p>You are eager to learn and have a basic understanding of working with data sets</p><p>You are gaining experience with ETL workflows and excited to improve your skills in</p><p>streamlining these processes.</p><p>You have a foundational knowledge of big data concepts, cloud technologies, and data modeling.</p><p>Your skills in SQL and Python are strong, with a focus on writing efficient queries.</p><p>You are gaining hands-on experience with cloud platforms like AWS, Azure, or Google</p><p>Cloud and are keen to expand your knowledge.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+        "company_information": null,
+        "needs": null,
+        "requirements": null,
+        "conditions": null
+      },
+      "employment_type": {
+        "concept_id": "kpPX_CNN_gDU",
+        "label": "Tillsvidareanställning (inkl. eventuell provanställning)",
+        "legacy_ams_taxonomy_id": null
+      },
+      "salary_type": {
+        "concept_id": "oG8G_9cW_nRf",
+        "label": "Fast månads- vecko- eller timlön",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "salary_description": null,
+      "duration": {
+        "concept_id": "a7uU_j21_mkL",
+        "label": "Tills vidare",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "working_hours_type": {
+        "concept_id": "6YE1_gAC_R2G",
+        "label": "Heltid",
+        "legacy_ams_taxonomy_id": "1"
+      },
+      "scope_of_work": {
+        "min": 100,
+        "max": 100
+      },
+      "access": null,
+      "employer": {
+        "phone_number": null,
+        "email": null,
+        "url": "http://celsusengineering.se",
+        "organization_number": "5592802234",
+        "name": "Celsus Engineering AB",
+        "workplace": "Celsus Engineering AB"
+      },
+      "application_details": {
+        "information": null,
+        "reference": null,
+        "email": "support@celsusengineering.se",
+        "via_af": false,
+        "url": null,
+        "other": null
+      },
+      "experience_required": true,
+      "access_to_own_car": false,
+      "driving_license_required": false,
+      "driving_license": null,
+      "occupation": {
+        "concept_id": "eTVL_hfE_Lyh",
+        "label": "Dataanalytiker",
+        "legacy_ams_taxonomy_id": "7786"
+      },
+      "occupation_group": {
+        "concept_id": "WX67_Pfb_WMN",
+        "label": "Marknadsanalytiker och marknadsförare m.fl.",
+        "legacy_ams_taxonomy_id": "2431"
+      },
+      "occupation_field": {
+        "concept_id": "RPTn_bxG_ExZ",
+        "label": "Försäljning, inköp, marknadsföring",
+        "legacy_ams_taxonomy_id": "5"
+      },
+      "workplace_model": {
+        "concept_id": null,
+        "label": null
+      },
+      "workplace_address": {
+        "municipality": "Stockholm",
+        "municipality_code": "0180",
+        "municipality_concept_id": "AvNB_uwa_6n6",
+        "region": "Stockholms län",
+        "region_code": "01",
+        "region_concept_id": "CifL_Rzy_Mku",
+        "country": "Sverige",
+        "country_code": "199",
+        "country_concept_id": "i46j_HmG_v64",
+        "street_address": null,
+        "postcode": null,
+        "city": null,
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "workplace_addresses": [
+        {
+          "municipality": "Stockholm",
+          "municipality_code": "0180",
+          "municipality_concept_id": "AvNB_uwa_6n6",
+          "region": "Stockholms län",
+          "region_code": "01",
+          "region_concept_id": "CifL_Rzy_Mku",
+          "country": "Sverige",
+          "country_code": "199",
+          "country_concept_id": "i46j_HmG_v64",
+          "street_address": null,
+          "postcode": null,
+          "city": null,
+          "coordinates": [
+            null,
+            null
+          ]
+        }
+      ],
+      "must_have": {
+        "skills": [],
+        "languages": [],
+        "work_experiences": [
+          {
+            "weight": 10,
+            "concept_id": "eTVL_hfE_Lyh",
+            "label": "Dataanalytiker",
+            "legacy_ams_taxonomy_id": "7786"
+          }
+        ],
+        "education": [
+          {
+            "weight": 10,
+            "concept_id": "WFCz_teU_KFf",
+            "label": "Teknik och teknisk industri",
+            "legacy_ams_taxonomy_id": "15"
+          }
+        ],
+        "education_level": [
+          {
+            "weight": 10,
+            "concept_id": "SdS6_SLL_mRJ",
+            "label": "Forskarutbildning",
+            "legacy_ams_taxonomy_id": "7"
+          }
+        ]
+      },
+      "nice_to_have": {
+        "skills": [
+          {
+            "weight": null,
+            "concept_id": "5Gmv_EZs_BPe",
+            "label": "Dataanalys",
+            "legacy_ams_taxonomy_id": "1126"
+          },
+          {
+            "weight": null,
+            "concept_id": "KRDJ_nhm_wLb",
+            "label": "Amazon Web Services (AWS), molnplattform",
+            "legacy_ams_taxonomy_id": "609418"
+          },
+          {
+            "weight": null,
+            "concept_id": "HKgZ_SWa_vn8",
+            "label": "Windows Azure, molnplattform",
+            "legacy_ams_taxonomy_id": "609413"
+          },
+          {
+            "weight": null,
+            "concept_id": "DL93_n1W_VFP",
+            "label": "Google Cloud Platform, molnplattform",
+            "legacy_ams_taxonomy_id": null
+          }
+        ],
+        "languages": [
+          {
+            "weight": 5,
+            "concept_id": "NVxJ_hLg_TYS",
+            "label": "Engelska",
+            "legacy_ams_taxonomy_id": "283"
+          }
+        ],
+        "work_experiences": [],
+        "education": [],
+        "education_level": []
+      },
+      "application_contacts": [],
+      "publication_date": "2026-05-21T12:21:25",
+      "last_publication_date": "2026-11-10T23:59:59",
+      "removed": false,
+      "removed_date": null,
+      "source_type": "VIA_ANNONSERA",
+      "timestamp": 1779358885686
+    }
+  ]
+}
