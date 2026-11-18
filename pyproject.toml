@@ -3,11 +3,14 @@ name = "data-engineering-job-market-pipeline"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = [
     "databricks-sql-connector>=4.6.0",
     "ipykernel>=7.4.0",
+    "ipython>=9.17.1",
     "pandas>=3.0.6",
+    "pexpect>=4.9.0",
     "python-dotenv>=1.2.4",
     "requests>=2.34.2",
+    "stack-data>=0.6.3",
 ]
